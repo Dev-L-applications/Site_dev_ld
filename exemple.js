@@ -23,7 +23,6 @@ let citations = [
   ["Pour gagner votre vie, apprenez à l’école. Pour gagner une fortune, apprenez par vous-même.", "Brian Tracy"],
   ["Les gagnants trouvent des moyens, les perdants des excuses…", "F. D. Roosevelt"],
   ["Vous n’êtes jamais trop vieux pour vous fixer de nouveaux buts, ou rendre vos rêves réalité.", "C.S. Lewis"],
-  ["Un pessimiste voit la difficulté dans chaque opportunité. Un optimiste voit une opportunité dans chaque difficulté.", "Winston Churchill"]
 ];
 
 //Fonction qui va générer un nombre aléatoire grace à l'objet Math.random
