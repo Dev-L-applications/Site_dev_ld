@@ -23,6 +23,14 @@ let citations = [
   ["Pour gagner votre vie, apprenez à l’école. Pour gagner une fortune, apprenez par vous-même.", "Brian Tracy"],
   ["Les gagnants trouvent des moyens, les perdants des excuses…", "F. D. Roosevelt"],
   ["Vous n’êtes jamais trop vieux pour vous fixer de nouveaux buts, ou rendre vos rêves réalité.", "C.S. Lewis"],
+  ["Une petite impatience ruine un grand projet.", "Confucius"],
+  ["La confiance est un élément majeur : sans elle, aucun projet n’aboutit.", "Eric Tabarly"],
+  ["Tu peux tout accomplir dans la vie si tu as le courage de le rêver, l’intelligence d’en faire un projet réaliste, et la volonté de voir ce projet mené à bien", "Sidney A. Friedman"],
+  ["Seul, on va plus vite. Ensemble on va plus loin.", "proverbe africain"],
+  ["Prévoir consiste à projeter dans l’avenir ce qu’on a perçu dans le passé.", "Henri Bergson"],
+  ["On ne se débarrasse pas d’une habitude en la flanquant par la fenêtre. Il faut lui faire descendre l’escalier marche par marche", "Mark Twain"],
+  ["Pour réussir il ne suffit pas de prévoir, il faut aussi savoir improviser","Isaac Asimov"],
+  ["Il n’y a pas de vent favorable pour celui qui ne sait pas où il va","Sénèque"],
 ];
 
 //Fonction qui va générer un nombre aléatoire grace à l'objet Math.random
