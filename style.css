@@ -1,6 +1,6 @@
 html, body {/*Dégradé du body et taille des zone de texte*/
+    
     background: black;
-  
     height: 100%;
     min-width: 500px;
   }
