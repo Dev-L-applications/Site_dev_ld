@@ -1,6 +1,6 @@
 html, body {/*Dégradé du body et taille des zone de texte*/
-    background: -webkit-linear-gradient(to right, #244d81, #3662db);
-    background: linear-gradient(to right, #304ea0, #3a69ce);
+    background: -webkit-linear-gradient(to right, #1a2983, #15399c);
+    background: linear-gradient(to right, #17317a, #123f9e);
     height: 100%;
     min-width: 500px;
   }
