@@ -31,6 +31,9 @@ let citations = [
   ["On ne se débarrasse pas d’une habitude en la flanquant par la fenêtre. Il faut lui faire descendre l’escalier marche par marche", "Mark Twain"],
   ["Pour réussir il ne suffit pas de prévoir, il faut aussi savoir improviser","Isaac Asimov"],
   ["Il n’y a pas de vent favorable pour celui qui ne sait pas où il va","Sénèque"],
+  ["Si tu crois que tu vas réussir, ou si tu crois que tu vas echouer, dans les deux cas tu as raison","Henry Ford"],
+  ["Nos pensées dessinent notre réalité et nous conditionnent, il faut commencer par croire que tout est possible","Mohamed B."],
+  ["Si l'avenir m'intéresse, c'est parce que je vais y passé le reste de ma vie","Marc Twain"]
 ];
 
 //Fonction qui va générer un nombre aléatoire grace à l'objet Math.random
