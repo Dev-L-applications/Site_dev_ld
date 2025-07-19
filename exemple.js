@@ -32,7 +32,7 @@ let citations = [
   ["Pour réussir il ne suffit pas de prévoir, il faut aussi savoir improviser","Isaac Asimov"],
   ["Il n’y a pas de vent favorable pour celui qui ne sait pas où il va","Sénèque"],
   ["Si tu crois que tu vas réussir, ou si tu crois que tu vas echouer, dans les deux cas tu as raison.","Henry Ford"],
-  ["Nos pensées dessinent notre réalité et nous conditionnent, il faut commencer par croire que tout est possible.","Mohamed B."],
+  ["Nos pensées dessinent notre réalité et nous conditionnent, il faut commencer par croire que tout est possible.","Mohamed Boclet(A lire, Top)."],
   ["Si l'avenir m'intéresse, c'est parce que je vais y passé le reste de ma vie.","Marc Twain"]
   ["Ceux qui réussissent n’abandonnent jamais. Ceux qui abandonnent ne réussissent jamais.","Napoléon Hill"],
   ["Le succès n’est pas final, l’échec n’est pas fatal : c’est le courage de continuer qui compte.","Winston Churchill"],
