@@ -34,6 +34,24 @@ let citations = [
   ["Si tu crois que tu vas réussir, ou si tu crois que tu vas echouer, dans les deux cas tu as raison.","Henry Ford"],
   ["Nos pensées dessinent notre réalité et nous conditionnent, il faut commencer par croire que tout est possible.","Mohamed B."],
   ["Si l'avenir m'intéresse, c'est parce que je vais y passé le reste de ma vie.","Marc Twain"]
+  ["Ceux qui réussissent n’abandonnent jamais. Ceux qui abandonnent ne réussissent jamais.","Napoléon Hill"],
+  ["e succès n’est pas final, l’échec n’est pas fatal : c’est le courage de continuer qui compte.","Winston Churchill"],
+  ["Le succès est la somme de petits efforts, répétés jour après jour.","Robert Collier"],
+  ["La persévérance est la clé de tout succès durable.","Earl Nightingale"],
+  ["Le plus grand plaisir de la vie est de réaliser ce que les autres vous croient incapable d’accomplir.","Walter Bagehot"],
+  ["Notre plus grande gloire n’est pas de ne jamais tomber, mais de nous relever à chaque chute.","Confucius"],
+  ["Vous ne savez jamais à quel point vous êtes fort jusqu’au jour où être fort reste votre seule option.","Bob Marley"],
+  ["La seule limite à notre épanouissement de demain sera nos doutes d’aujourd’hui.","Franklin D. Roosevelt"],
+  ["La vie est comme une bicyclette, il faut avancer pour ne pas perdre l’équilibre.","Albert Einstein"],
+  ["Si vous ne croyez pas en vous-même, pourquoi quelqu’un d’autre le ferait-il ?","Michael Jordan"],
+  ["Si vous voulez que la vie vous sourie, apportez-lui d’abord votre bonne humeur.","Spinoza"],
+  ["Celui qui déplace la montagne, c’est celui qui commence à enlever les petites pierres.","Confucius"],
+  ["Si vous ne commettez pas d’erreur, c’est que vous ne travaillez pas assez dur sur les problèmes. Et ça, c’est une grande erreur.","Franck Wilczek"],
+  ["Il n’y a pas de petites ou grandes choses mais il y a ce que j’aime, ce que je fais et ce qui me plait.","Jacques Prévert"],
+  ["e n’est pas tant ce que les gens ignorent qui cause de vrais problèmes, c’est tout ce qu’ils savent et qui n’est pas vrai.","Mark Twain"],
+  ["Votre temps est limité, alors ne le gaspillez pas en vivant la vie de quelqu’un d’autre. Ne soyez pas piégés par les idées toutes faites -les dogmes- ce qui revient à vivre selon le résultat de la pensée d’autrui. Ne laissez pas le bruit de l’opinion des autres étouffer votre voix intérieure. Et, le plus important de tout, ayez le courage de suivre votre cœur et votre intuition. Eux savent déjà ce que vous voulez vraiment devenir. Tout le reste est secondaire.","Steve Jobs"],
+  ["Il faut en tout cas admettre une vérité dérangeante : on est vieux dans le regard des autres bien avant de l'être dans le sien.","Benoîte Groult"],
+  ["Dans ce monde égoïste qui est le nôtre, on se demande parfois si on ne devrait pas se déguiser en miroir pour que les autres nous accordent un regard","Philippe Geluck"],
 ];
 
 //Fonction qui va générer un nombre aléatoire grace à l'objet Math.random
