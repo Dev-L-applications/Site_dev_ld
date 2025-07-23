@@ -52,6 +52,8 @@ let citations = [
   ["Votre temps est limité, alors ne le gaspillez pas en vivant la vie de quelqu’un d’autre. Ne soyez pas piégés par les idées toutes faites -les dogmes- ce qui revient à vivre selon le résultat de la pensée d’autrui. Ne laissez pas le bruit de l’opinion des autres étouffer votre voix intérieure. Et, le plus important de tout, ayez le courage de suivre votre cœur et votre intuition. Eux savent déjà ce que vous voulez vraiment devenir. Tout le reste est secondaire.","Steve Jobs"],
   ["Il faut en tout cas admettre une vérité dérangeante : on est vieux dans le regard des autres bien avant de l'être dans le sien.","Benoîte Groult"],
   ["Dans ce monde égoïste qui est le nôtre, on se demande parfois si on ne devrait pas se déguiser en miroir pour que les autres nous accordent un regard","Philippe Geluck"],
+  ["Un gagnant est un rêveur qui n'abandonne jamais","Nelson Mandela"],
+  ["La procrastination naît souvent de la peur d'échouer, il faut retenir que 1 vaut mieux que zéro, faire un peu c'est mieux que rien","Mohamed Boclet"],
 ];
 
 //Fonction qui va générer un nombre aléatoire grace à l'objet Math.random
