@@ -8,7 +8,6 @@ let nombreAleatoire = 0;
 // Tableau de citations
 let citations = [
   ["La vie est un mystère qu'il faut vivre, et non un problème à résoudre.", "Gandhi"],
-  ["Le développement informatique est une aventure passionnante, pleine de créativité, gratifiante, toujours en pleine évolution. J'aime coder ! ", "LDdwwm"],
   ["Le plus grand risque est de ne prendre aucun risque.", "Mark Zuckerberg"],
   ["A chaque fois que vous vous retrouvez du même côté que la majorité, il est temps de prendre du recul, et de réfléchir.", "Mark Twain"],
   ["Seulement ceux qui prendront le risque d’aller trop loin découvriront jusqu’où on peut aller.", "T.S Elliot"],
