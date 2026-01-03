@@ -53,6 +53,9 @@ let citations = [
   ["Dans ce monde égoïste qui est le nôtre, on se demande parfois si on ne devrait pas se déguiser en miroir pour que les autres nous accordent un regard","Philippe Geluck"],
   ["Un gagnant est un rêveur qui n'abandonne jamais","Nelson Mandela"],
   ["La procrastination naît souvent de la peur d'échouer, il faut retenir que 1 vaut mieux que zéro, faire un peu c'est mieux que rien","Mohamed Boclet"],
+  ["On devrait vivre pour le plaisir, Rien ne veillit comme le bonheur", "Oscar wilde"],
+  ["Le rire est le plus grand medecin", "George Sand"],
+  ["Le bonheur est un rêve de d'enfant réalisé à l'age adulte", "Freud"],
 ];
 
 //Fonction qui va générer un nombre aléatoire grace à l'objet Math.random
